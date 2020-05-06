@@ -1,0 +1,1 @@
+nohup node index.js > decode.log 2>&1 &

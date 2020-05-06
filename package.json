@@ -1,0 +1,24 @@
+{
+  "name": "service-decode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makkii-dev/service-decode.git"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makkii-dev/service-decode/issues"
+  },
+  "homepage": "https://github.com/makkii-dev/service-decode#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lib-keypair": "https://github.com/makkii-dev/lib-keypair.git",
+    "lib-contract": "https://github.com/makkii-dev/lib-contract.git"
+  }
+}
