@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/makkii-dev/service-decode#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "lib-keypair": "https://github.com/makkii-dev/lib-keypair.git",
     "lib-contract": "https://github.com/makkii-dev/lib-contract.git"
   }
